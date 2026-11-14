@@ -1,0 +1,6 @@
+{
+  "name": "AniPulse",
+  "description": "Anime discovery, cross-device episode watch sync, customizable profiles, watchlists, community boards, direct messaging, and real-time notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
